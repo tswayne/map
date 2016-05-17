@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7d04843-faf1-4ef8-a535-a5f370f2843c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/raphael.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/test.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/country.js" afterPath="$PROJECT_DIR$/lib/country.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/hexagon.js" afterPath="$PROJECT_DIR$/lib/hexagon.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/line.js" afterPath="$PROJECT_DIR$/lib/line.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/map.js" afterPath="$PROJECT_DIR$/lib/map.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/mapgenerator.js" afterPath="$PROJECT_DIR$/lib/mapgenerator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/point.js" afterPath="$PROJECT_DIR$/lib/point.js" />
-    </list>
+    <list default="true" id="f7d04843-faf1-4ef8-a535-a5f370f2843c" name="Default" comment="" />
     <ignored path="mapgenerator.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -47,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/output.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="941" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="941" />
+              <caret line="0" column="737" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -624,12 +613,12 @@
       <workItem from="1463195787185" duration="3559000" />
       <workItem from="1463455175525" duration="1000" />
       <workItem from="1463455367590" duration="1091000" />
-      <workItem from="1463457915067" duration="885000" />
+      <workItem from="1463457915067" duration="1000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10652000" />
+    <option name="totallyTimeSpent" value="10767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2047" y="79" width="1711" height="931" extended-state="0" />
@@ -769,8 +758,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/output.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="941" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="941" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="737" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="1" />
           <folding />
         </state>
       </provider>
